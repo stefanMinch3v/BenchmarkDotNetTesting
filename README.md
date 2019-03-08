@@ -1,2 +1,2 @@
 # BenchmarkDotNetTesting
-Example of BenchmarkDotNet testing
+Example of testing with BenchmarkDotNet library - https://benchmarkdotnet.org/
